@@ -1295,7 +1295,6 @@
     width: 50%;
     height: 30%;
     top: 21%;
-    background-color: #1f2020;
     background-image: url("./imgs/Group\ 43.svg");
     display: flex;
     align-items: center;
@@ -1690,7 +1689,7 @@ visibility: hidden;  }
    
   }
   .copy {
-    margin-left: -6%;
+    margin-left: -12%;
     color: var(--Primary-Black-Grey-40, var(--Grey-40, rgba(17, 17, 17, 0.4)));
     font-family: Satoshi;
     font-size: 2vh;
@@ -1699,7 +1698,7 @@ visibility: hidden;  }
   }
   .policy {
     /* position: absolute; */
-  margin-left: -46%;
+  margin-left: -60%;
     color: var(--Primary-Black-Grey-40, var(--Grey-40, rgba(17, 17, 17, 0.4)));
     font-family: Satoshi;
     font-size: 2vh;
